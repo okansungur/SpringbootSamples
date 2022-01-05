@@ -12,3 +12,4 @@ Cassandra is highly optimized for read operations. Can be used for duplicated da
 
 
 
+A Cassandra table has two kinds of keys: partition keys and clustering keys
