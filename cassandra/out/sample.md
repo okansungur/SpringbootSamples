@@ -1,1 +1,1 @@
-for docker compose !!!
+create the directories, for docker compose  !!!
