@@ -1,0 +1,13 @@
+#page-content{background-color:rgba(200,255,255,1);}
+
+/*General - Reset*/
+p{color: #354c8a;}
+p strong{color:#1f1f1f;}
+a{color:#2980b9;}
+
+
+/*Heading Style*/
+.heading-style .line{background-color:#000000;}
+.heading-style i{background-color:#FFFFFF; color: #428bb1;}
+.decoration{background-color:rgba(0,0,0,0.1);}
+
